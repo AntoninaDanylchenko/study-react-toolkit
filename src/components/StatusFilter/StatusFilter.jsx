@@ -26,7 +26,7 @@ export const StatusFilter = () => {
       </Button>
       <Button
         selected={filter === statusFilters.active}
-        pnClick={() => handleFilterChange(statusFilters.active)}
+        onClick={() => handleFilterChange(statusFilters.active)}
       >
         Active
       </Button>
