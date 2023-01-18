@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/study-react-toolkit/static/css/main.aaaf48ca.css",
+    "main.js": "/study-react-toolkit/static/js/main.a15cdc3a.js",
+    "index.html": "/study-react-toolkit/index.html",
+    "main.aaaf48ca.css.map": "/study-react-toolkit/static/css/main.aaaf48ca.css.map",
+    "main.a15cdc3a.js.map": "/study-react-toolkit/static/js/main.a15cdc3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaaf48ca.css",
+    "static/js/main.a15cdc3a.js"
+  ]
+}
